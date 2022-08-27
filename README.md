@@ -27,3 +27,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] SEE 3º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e601644979fc6bf9506d96ce77bff0bdd1f03454</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
+</item>
