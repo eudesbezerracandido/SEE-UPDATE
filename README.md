@@ -32,6 +32,7 @@
 <title>[COLOR silver][B] SEE 3º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e601644979fc6bf9506d96ce77bff0bdd1f03454$nome=SEE EP.1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6099f8a294b874868136ce9af54b8d6a0ef560c6$nome=SEE EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a9d6e63f291d6d2381f574b937cb444dfeb86e8$nome=SEE EP.3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
