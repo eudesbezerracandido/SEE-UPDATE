@@ -37,6 +37,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb116f4ed9b409e42f5d7585dfcbc47db9785f5$nome=SEE EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78cb7e920d3c40823872fdae3f5e39f84322561$nome=SEE EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8ded8fce8fd6a3a4840dec3813f9f9466b67cc$nome=SEE EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3af430fb654f4d4cb3c94dc8bf64833891949170$nome=SEE EP.8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
